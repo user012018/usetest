@@ -4,7 +4,8 @@ var test_1 = require("./js/test");
 
 // Write Javascript code!
 // var appDiv = document.getElementById('app');
-// appDiv.innerHTML = test_1.test();
+// appDiv.innerHTML = test_1.test(); 
+console.log('try inits.....');
 
 // }).apply(__cjsWrapper.exports, __cjsWrapper.args);
 // })(System, System);
